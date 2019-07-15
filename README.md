@@ -3,7 +3,7 @@
 # Welcome to [DavidDaDev's](https://davidsoto.dev/) GitHub Page
 
 - Description:
-A clean simple page showcasing a landing page for adopt-a-pupp business.
+A clean simple page showcasing a landing page for adopt-a-pupp business. Refresh the page to see the magic!
 
 ## Launch
 
